@@ -1,0 +1,203 @@
+{
+  "project_info": {
+    "project_number": "626301073642",
+    "firebase_url": "https://video-a3ae3.firebaseio.com",
+    "project_id": "video-a3ae3",
+    "storage_bucket": "video-a3ae3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626301073642:android:74ea5172e63d808e",
+        "android_client_info": {
+          "package_name": "pro_tech.androidtasks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626301073642-5vntc8ufruf139ltnh1rvv78n40kian8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pro_tech.androidtasks",
+            "certificate_hash": "8068ab2f104fe511681236299786bf60c5d9d4be"
+          }
+        },
+        {
+          "client_id": "626301073642-53o2r4cra1eci9np7b8rtjamq6ht5ra5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "626301073642-53o2r4cra1eci9np7b8rtjamq6ht5ra5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4FUwqokR3hxC84_fgVcGbSbgqcpga39s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626301073642-53o2r4cra1eci9np7b8rtjamq6ht5ra5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626301073642:android:0f598fc97a0b11f2",
+        "android_client_info": {
+          "package_name": "pro_tech.videoaccountcreator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626301073642-its8jnv4c0d24mj9c5ac5qvomi6eoat6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pro_tech.videoaccountcreator",
+            "certificate_hash": "8068ab2f104fe511681236299786bf60c5d9d4be"
+          }
+        },
+        {
+          "client_id": "626301073642-53o2r4cra1eci9np7b8rtjamq6ht5ra5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "626301073642-53o2r4cra1eci9np7b8rtjamq6ht5ra5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4FUwqokR3hxC84_fgVcGbSbgqcpga39s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626301073642-53o2r4cra1eci9np7b8rtjamq6ht5ra5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626301073642:android:498696d4301fb042",
+        "android_client_info": {
+          "package_name": "pro_tech.videoadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626301073642-7fn6j3t3p205r11pcmrommh6dloba8ri.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pro_tech.videoadmin",
+            "certificate_hash": "8068ab2f104fe511681236299786bf60c5d9d4be"
+          }
+        },
+        {
+          "client_id": "626301073642-53o2r4cra1eci9np7b8rtjamq6ht5ra5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "626301073642-53o2r4cra1eci9np7b8rtjamq6ht5ra5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4FUwqokR3hxC84_fgVcGbSbgqcpga39s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626301073642-53o2r4cra1eci9np7b8rtjamq6ht5ra5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626301073642:android:c8078f18484eefff",
+        "android_client_info": {
+          "package_name": "pro_tech.videocustomer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626301073642-vq7hu1150bd7qvc10eb7bo00m98r8mg0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pro_tech.videocustomer",
+            "certificate_hash": "8068ab2f104fe511681236299786bf60c5d9d4be"
+          }
+        },
+        {
+          "client_id": "626301073642-53o2r4cra1eci9np7b8rtjamq6ht5ra5.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "626301073642-53o2r4cra1eci9np7b8rtjamq6ht5ra5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4FUwqokR3hxC84_fgVcGbSbgqcpga39s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626301073642-53o2r4cra1eci9np7b8rtjamq6ht5ra5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

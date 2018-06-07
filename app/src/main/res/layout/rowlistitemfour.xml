@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="150dp"
+    android:layout_height="match_parent"
+    android:layout_margin="5dp"
+    android:layout_gravity="center_vertical|center_horizontal"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_vertical|center_horizontal"
+        android:padding="10dp"
+        android:orientation="vertical">
+        <ImageView
+            android:id="@+id/imageview"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_gravity="center_horizontal|center_vertical"/>
+        <TextView
+            android:id="@+id/channelname"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:gravity="center_vertical|center_horizontal|center"
+            android:layout_gravity="center_vertical|center_horizontal|center"
+            android:text="channel name"
+            android:textSize="16sp"/>
+    </LinearLayout>
+
+</android.support.v7.widget.CardView>
